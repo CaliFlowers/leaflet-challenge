@@ -9,8 +9,9 @@ Leaflet is the Javascript library that specializes in rendering data on maps.
 
 ## GeoJSON
 In data visualization, the dimension of position is considered the most salient. 
-In Leaflet, information nn position typically comes defined in a GeoJSON format. 
+In Leaflet, information nn position typically comes defined in a GeoJSON format. GeoJSON stores the attributes of a location in Javascript Object Notation (JSON) format. This makes it possible to define various types of objects on a map: lines, borders, points, cities, landmarks, shapes, geographic regions 
 
 ![](Images/4-JSON.png)
 
 ## Geo-mapping USGS Data
+![](Images/1-Logo.png)
