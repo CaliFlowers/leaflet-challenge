@@ -17,4 +17,7 @@ In Leaflet, information nn position typically comes defined in a GeoJSON format.
 ![](Images/1-Logo.png)
 For this project, earthquake data embedded in a geoJSON file from the US Geological Service (USGS)is used. As ca be seen, the GeoJSON format allows for the visualization of data in more than just the 2-D plane of a typical map. Appropriate use of the other facets of data visualization (position on a map, color, size of markers, shape of markers) makes geo-mapping a handy tool for any data analyst who knows how to leverage multiplevisualization strategies to display multiple facets of aailable data. 
 Position gives the reader he location of an earthquake; size indicates magnitude; and color indicates depth. 
+
+In additions, pop-ups are also attached to each circle to display additional information. 
 ![](Images/2-BasicMap.png)
+For the purposes of the project, the Major Earthquake Data GeJSON was applied which gives a reasonable number of data points.  
