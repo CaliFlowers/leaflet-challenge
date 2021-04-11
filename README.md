@@ -8,5 +8,9 @@ If data visualization helps condense data into a comprehensible, understable for
 Leaflet is the Javascript library that specializes in rendering data on maps. 
 
 ## GeoJSON
+In data visualization, the dimension of position is considered the most salient. 
+In Leaflet, information nn position typically comes defined in a GeoJSON format. 
+
+![](Images/4-JSON.png)
 
 ## Geo-mapping USGS Data
